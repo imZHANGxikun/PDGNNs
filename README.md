@@ -1,6 +1,6 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
-This is the official repository of the KDD 2024 paper 'Topology-aware Embedding Memory for Continual Learning on Expanding Networks'
+This is the official repository of 'Topology-aware Embedding Memory for Continual Learning on Expanding Networks' published in KDD 2024
 
  ## Get Started
  
